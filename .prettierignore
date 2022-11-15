@@ -1,0 +1,7 @@
+**/*.md
+**/*.svg
+**/*.html
+**/*.ttf
+**/*.eot
+**/*.woff
+package.json
